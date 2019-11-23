@@ -1,4 +1,4 @@
-# cloneEntityAndLinks
+# Clone Entity And Links
 
 JDK should be installed.
 json-simple-1.1.jar is used to parse JSON.
